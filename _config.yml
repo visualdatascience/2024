@@ -1,0 +1,19 @@
+# Site settings
+title: "Visualization in Data Science (VDS at IEEE VIS)"
+email: "vds@ieeevis.org"
+description: "Visualization in Data Science (VDS at IEEE VIS 2023)"
+baseurl: "/2023"
+url: "http://www.visualdatascience.org/"
+conferenceshort: "VDS 2023"
+conferencedate: "October 23, 2023" 
+
+deadline_submission_vis:  "Thur., July 20th, 2023, 11:59 pm AOE"
+deadline_notification_vis: "Fri., August 14th, 2023, 11:59 pm AOE"
+event2_date: "Mon., Oct. 23, 2023, 2:00 PM - 5:00 PM AEDT (UTC+11)"
+
+# Build settings
+markdown: kramdown
+
+collections:
+- talks
+

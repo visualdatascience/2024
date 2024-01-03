@@ -1,0 +1,87 @@
+<header class="header" role="banner">
+    <div class="header-inner clearfix">
+        <a class="brand pull-left" href="{{ site.baseurl }}/"><span class="site-title span11" title="{{ site.title }}">{{ site.title }}</span></a>
+        <!-- <div class="header-search pull-right top_button"><a href="http://www.ieeevis.org/">Back to IEEE VIS</a>  </div>-->
+    </div>
+</header>
+
+<div class="row-fluid">
+    <div id="sidebar" class="span3">
+        <div class="sidebar-nav">
+            <div class="well ">
+                <div class="custom">
+                    <!--<center><h1>{{ site.conferenceshort }}</h1></center><p>{{ site.conferencedate }}</p>-->
+                    <img src="{{ site.baseurl}}/images/vds-logo.png" alt="VDS Logo">
+                    <br>
+                    <span style="text-align: center"><b>VDS@VIS: {{ site.event2_date }}</b></span>
+                    
+                </div>
+            </div>
+            <div class="well _menu">
+                <h3 class="page-header">Menu</h3>
+                <ul class="nav menu">
+                    <li><a class="page-link" href="{{ site.baseurl }}/">Home</a></li>
+                    {% for page in site.pages %} {% if page.title %} {% if page.title != "VDS 2023" %}
+                    <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+                    {% endif %} {% endif %} {% endfor %}
+                </ul>
+            </div>
+
+
+            <div class="well mobile-hidden ">
+                <h3 class="page-header">Important Dates</h3>
+                <div class="custom">
+                    <p><strong>VDS@VIS Submission Deadline:</strong><br>{{ site.deadline_submission_vis }} </p>
+                    <p><strong>VDS@VIS Author Notification:</strong><br>{{ site.deadline_notification_vis }} </p>
+                </div>
+            </div>
+
+            <div class="well ">
+                <h3 class="page-header">Supporters</h3>
+
+
+
+<!--                 <div class="custom">
+                    <p>
+                        <a href="http://www.bosch.com"><img class="logo" src="{{ site.baseurl }}/images/sponsors/bosch.png" alt="Bosch" /></a>
+                    </p>
+                </div> -->
+
+                <div> Become a Sponsor - get in touch with <a href="mailto:vds@ieeevis.org">vds@ieeevis.org</a></div>
+                <!--
+            <p><a href="https://azure.microsoft.com/"><img class="logo" src="{{ site.baseurl }}/images/sponsors/azure.png" alt="Microsoft Azure" /></a></p>
+            <p><a href="https://www.rstudio.com/"><img  class="logo" src="{{ site.baseurl }}/images/sponsors/rstudio.png" alt="RStudio" /></a></p>
+
+        -->
+            </div>
+
+        </div>
+
+        <div class="well ">
+            <h3 class="page-header">VDS Archive</h3>
+            <div class="custom">
+                <a href="http://www.visualdatascience.org/2022/">VDS 2022</a> <br />
+                <a href="http://www.visualdatascience.org/2021/">VDS 2021</a> <br />
+                <a href="http://www.visualdatascience.org/2020/">VDS 2020</a> <br />
+                <a href="http://www.visualdatascience.org/2019/">VDS 2019</a> <br />
+                <a href="http://www.visualdatascience.org/2018/">VDS 2018</a> <br />                
+                <a href="http://www.visualdatascience.org/2017/">VDS 2017</a> <br />
+                <a href="http://www.visualdatascience.org/2016/">VDS 2016</a> <br />
+                <a href="http://www.visualdatascience.org/2015/">VDS 2015</a>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <main id="content" role="main" class="span9">
+        <div class="moduletable">
+
+            <div class="custom mobile-hidden">
+
+                <img style="border: 0px solid #000000;" src="{{  site.baseurl }}/images/banner.jpg" alt="banner" width="710" height="253">
+                <span class="header-search pull-right top_button" style="margin-top: 1px">Image courtesy of <a href="https://twitter.com/kirkgoldsberry">Kirk Goldsberry</a> </span>
+
+            </div>
+        </div>
