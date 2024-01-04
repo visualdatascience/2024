@@ -11,7 +11,7 @@ Data science is the practice of deriving insights from data, enabled by statisti
 
 Visualization is an integral part of data science, and essential to enable sophisticated analysis of data. After eight highly successful events, the ninth Symposium on Visualization in Data Science (VDS) will be held at [IEEE VIS 2024](https://ieeevis.org/year/2024/welcome). 
 
-Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2023/cfp/) will give authors a chance to present at VDS at  [IEEE VIS 2024](https://ieeevis.org/year/2024/welcome).  
+Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2024/cfp/) will give authors a chance to present at VDS at  [IEEE VIS 2024](https://ieeevis.org/year/2024/welcome).  
 
 
 ## Contact & Registration
@@ -40,4 +40,4 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 
 - [Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en), Bosch Research 
 
-- [Alvitta Ottley](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en), Washington University in St. Louis
+- [Alvitta Ottley](http://visualdata.wustl.edu), Washington University in St. Louis
