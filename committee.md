@@ -17,8 +17,8 @@ John Wenskovitch, a visual analytics researcher at Pacific Northwest National La
 
 Dr. Anamaria Crisan is a Lead Research Scientist at Tableau.  She conducts interdisciplinary research that integrates techniques and methods from machine learning, human-computer interaction, and data visualization. Her research focuses on the intersection of Data Science and Data Visualization, especially toward the way humans can collaboratively work together with ML/AI systems through visual interfaces.
 
-**[Dylan Cashman](https://dylancashman.github.io/)
 
+**[Dylan Cashman](https://dylancashman.github.io/)**
 
 Dr. Dylan Cashman is an assistant professor in the Michtom School of Computer Science at Brandeis University, where he teaches classes on data visualization as well as core computer science courses. He previously worked in the Data and AI division at Novartis, in Cambridge MA. As a senior expert in data science and advanced visual analytics, he had an impact on many projects through all phases of the drug development process. He received his PhD in Computer Science at Tufts University. Focusing on Data Visualization and Machine Learning, he has built libraries for visualization, data science, and artificial intelligence.
 
