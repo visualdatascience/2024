@@ -15,20 +15,22 @@ John Wenskovitch, a visual analytics researcher at Pacific Northwest National La
 
 **[Anamaria Crisan](https://amcrisan.github.io/)**
 
-Dr. Anamaria Crisan is a Lead Research Scientist at Tableau.  She conducts interdisciplinary research that integrates techniques and methods from machine learning, human computer interaction, and data visualization. Her research focuses on the intersection of Data Science and Data Visualization, especially toward the way humans can collaboratively work together with ML/AI systems through visual interfaces.
+Dr. Anamaria Crisan is a Lead Research Scientist at Tableau.  She conducts interdisciplinary research that integrates techniques and methods from machine learning, human-computer interaction, and data visualization. Her research focuses on the intersection of Data Science and Data Visualization, especially toward the way humans can collaboratively work together with ML/AI systems through visual interfaces.
 
-**TBD**
+**[Dylan Cashman](https://dylancashman.github.io/)
+
+
+Dr. Dylan Cashman is an assistant professor in the Michtom School of Computer Science at Brandeis University, where he teaches classes on data visualization as well as core computer science courses. He previously worked in the Data and AI division at Novartis, in Cambridge MA. As a senior expert in data science and advanced visual analytics, he had an impact on many projects through all phases of the drug development process. He received his PhD in Computer Science at Tufts University. Focusing on Data Visualization and Machine Learning, he has built libraries for visualization, data science, and artificial intelligence.
+
 
 
 ### Web/Tech Chair
 
 **[Saugat Pandey](https://iamsaugatpandey.github.io/)** 
 
-Saugat Pandey is a Ph.D. candidate in the Visual Interface and Behavior Exploration Lab at Washington University St. Louis. His research investigates visualization literacy and employing state-of-the-art computer vision techniques to understand the perceived beauty of the visualizations in the wild. 
+Saugat Pandey is a Ph.D. candidate in the Visual Interface and Behavior Exploration Lab at Washington University St. Louis. His research investigates visualization literacy and employs state-of-the-art computer vision techniques to understand the perceived beauty of the visualizations in the wild. 
 
-### Publicity Chairs
 
-**TBD**
 
 
 ### Steering Committee
