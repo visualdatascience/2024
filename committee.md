@@ -8,7 +8,7 @@ permalink: /committee/
 
 **[John Wenskovitch](https://johnwenskovitch.com/)**
 
-John Wenskovitch, a visual analytics researcher at Pacific Northwest National Lab, is an adjunct professor in the Department of Computer Science. He received a Ph.D. in computer science from Virginia Tech in 2019 and was a student at the Discovery Analytics Center, advised by Chris North. His current work focuses on the interconnecting roles of visualization and machine learning in visual analytics systems and primarily addresses the question, “How can machine learning support visualization?”  In contrast to recent work in Explainable AI, which explores methods by which visualization can support machine learning, Wenskovitch explores techniques to enable systems to infer the interests and intentions of the interacting user, thereby adapting and personalizing the visualization and underlying models.
+Dr. John Wenskovitch, a visual analytics researcher at Pacific Northwest National Lab, is an adjunct professor in the Department of Computer Science. He received a Ph.D. in computer science from Virginia Tech in 2019 and was a student at the Discovery Analytics Center, advised by Chris North. His current work focuses on the interconnecting roles of visualization and machine learning in visual analytics systems and primarily addresses the question, “How can machine learning support visualization?”  In contrast to recent work in Explainable AI, which explores methods by which visualization can support machine learning, Wenskovitch explores techniques to enable systems to infer the interests and intentions of the interacting user, thereby adapting and personalizing the visualization and underlying models.
 
 
 ### Paper Chairs
