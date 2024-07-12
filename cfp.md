@@ -64,7 +64,7 @@ To submit a paper, please use the [Precision Conference System](https://new.prec
 
 #### Important Dates
 
-Sat, Jul. 6th, 2024 11:59 pm AOE: Paper and Abstract Submission
+Fri, Jul. 12th, 2024 11:59 pm AOE: Paper and Abstract Submission
 
 Fri, Aug. 9th, 2024 11:59 pm AOE: Author Notification
 
