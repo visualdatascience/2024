@@ -5,7 +5,7 @@ permalink: /cfp/
 ---
 
 
-We encourage you to submit original work that emphasizes the role, application, and impact of visualization in data science. Accepted submissions have the opportunity to present at VDS [IEEE VIS](http://ieeevis.org/year/2023/welcome), and will be archived in the IEEE Xplore digital library (associated publishing fees may apply). This event accepts full and short paper submissions for talks.
+We encourage you to submit original work that emphasizes the role, application, and impact of visualization in data science. Accepted submissions have the opportunity to present at VDS [IEEE VIS](http://ieeevis.org/year/2024/welcome), and will be archived in the IEEE Xplore digital library (associated publishing fees may apply). This event accepts full and short paper submissions for talks.
 
 ### Special Theme for VDS’24
 This year we have a special theme soliciting contributions concerning ‘*Data Science in the Age of AI*’.  We encourage authors to submit their work involving systems, techniques, studies, and theories relating to the relationship between AI and data science work. Unlike previous years, we also encourage the submission of position papers if they belong to the special theme. If you are submitting a position paper be sure to clearly state so in the abstract.
