@@ -1,7 +1,7 @@
 --- 
 key: marcusbeck
 speaker: Dr. Marcus W Beck
-website: https://emitanaka.org
+# website: https://emitanaka.org
 affiliation: Tampa Bay Estuary Program
 title: Bringing data visualization to Tampa Bay - Modernizing the past and supporting the future
 time: 1:35pm - 2:15pm
