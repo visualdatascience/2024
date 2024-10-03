@@ -25,6 +25,8 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 
 - [John Wenskovitch](https://johnwenskovitch.com/), Pacific Northwest National Laboratory
 
+- [Alvitta Ottley](http://visualdata.wustl.edu), Washington University in St. Louis
+
 ## Paper Chairs
 
 - [Anamaria Crisan](https://amcrisan.github.io/), Tableau Research
@@ -32,14 +34,11 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 - [Dylan Cashman](https://dylancashman.github.io/), Brandeis University
 
 ## Web/Tech Chair
+
 - [Saugat Pandey](https://iamsaugatpandey.github.io/), Washington University in St. Louis
-
-
 
 ## Steering Committee
 
 - [Adam Perer](http://perer.org/), Carnegie Mellon University 
 
 - [Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en), Bosch Research 
-
-- [Alvitta Ottley](http://visualdata.wustl.edu), Washington University in St. Louis
