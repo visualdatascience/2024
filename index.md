@@ -25,7 +25,7 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 
 - [John Wenskovitch](https://johnwenskovitch.com/), Pacific Northwest National Laboratory
 
-- [Alvitta Ottley](http://visualdata.wustl.edu), Washington University in St. Louis
+- [Alvitta Ottley](http://visualdata.wustl.edu), Washington University in St. Louis (*Vice-Chair*)
 
 ## Paper Chairs
 
