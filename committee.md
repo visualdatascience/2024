@@ -4,15 +4,15 @@ title: Committee
 permalink: /committee/
 ---
 
-### Symposium Chair
-
-**[Alvitta Ottley](http://visualdata.wustl.edu)**
-
-Alvitta Ottley is an Assistant Professor in the Department of Computer Science & Engineering at Washington University in St. Louis. She also holds a courtesy appointment in the Department of Psychological and Brain Sciences. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how we can design human-in-the-loop visual analytics interfaces that are more attuned to the way people think.
+### Symposium Chairs
 
 **[John Wenskovitch](https://johnwenskovitch.com/)**
 
 Dr. John Wenskovitch, a visual analytics researcher at Pacific Northwest National Lab, is an adjunct professor in the Department of Computer Science. He received a Ph.D. in computer science from Virginia Tech in 2019 and was a student at the Discovery Analytics Center, advised by Chris North. His current work focuses on the interconnecting roles of visualization and machine learning in visual analytics systems and primarily addresses the question, “How can machine learning support visualization?”  In contrast to recent work in Explainable AI, which explores methods by which visualization can support machine learning, Wenskovitch explores techniques to enable systems to infer the interests and intentions of the interacting user, thereby adapting and personalizing the visualization and underlying models.
+
+**[Alvitta Ottley](http://visualdata.wustl.edu) (Vice-Chair)**
+
+Alvitta Ottley is an Assistant Professor in the Department of Computer Science & Engineering at Washington University in St. Louis. She also holds a courtesy appointment in the Department of Psychological and Brain Sciences. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how we can design human-in-the-loop visual analytics interfaces that are more attuned to the way people think.
 
 
 ### Paper Chairs
@@ -47,12 +47,3 @@ Liang Gou is a Principal Research Scientist at Bosch Research. His research inte
  
 Adam Perer is an Assistant Research Professor at Carnegie Mellon University, where he is a member of the Human-Computer Interaction Institute. His research integrates data visualization and machine learning techniques to create visual interactive systems to help users make sense out of big data. Lately, his research focuses on human-centered data science and extracting insights from clinical data to support data-driven medicine. This work has been published at premier venues in visualization, human-computer interaction, and medical informatics. He was previously a Research Scientist at IBM Research. He holds a Ph.D. in Computer Science from the University of Maryland, College Park.
 
-**[Alvitta Ottley](http://visualdata.wustl.edu)**
-
-Alvitta Ottley is an Assistant Professor in the Department of Computer Science & Engineering at Washington University in St. Louis. She also holds a courtesy appointment in the Department of Psychological and Brain Sciences. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how we can design human-in-the-loop visual analytics interfaces that are more attuned to the way people think.
-
-
-
-### Program Committee 
-
-TBD
