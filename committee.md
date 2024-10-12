@@ -12,14 +12,14 @@ Dr. John Wenskovitch, a visual analytics researcher at Pacific Northwest Nationa
 
 **[Alvitta Ottley](http://visualdata.wustl.edu) (Vice-Chair)**
 
-Alvitta Ottley is an Assistant Professor in the Department of Computer Science & Engineering at Washington University in St. Louis. She also holds a courtesy appointment in the Department of Psychological and Brain Sciences. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how we can design human-in-the-loop visual analytics interfaces that are more attuned to the way people think.
+Alvitta Ottley is an Associate Professor in the Department of Computer Science & Engineering at Washington University in St. Louis. She also holds a courtesy appointment in the Department of Psychological and Brain Sciences. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how we can design human-in-the-loop visual analytics interfaces that are more attuned to how people think.
 
 
 ### Paper Chairs
 
 **[Anamaria Crisan](https://amcrisan.github.io/)**
 
-Dr. Anamaria Crisan is a Lead Research Scientist at Tableau.  She conducts interdisciplinary research that integrates techniques and methods from machine learning, human-computer interaction, and data visualization. Her research focuses on the intersection of Data Science and Data Visualization, especially toward the way humans can collaboratively work together with ML/AI systems through visual interfaces.
+Dr. Anamaria Crisan is an Assistant Professor of Computer Science at the University of Waterloo.  She conducts interdisciplinary research that integrates techniques and methods from machine learning, human-computer interaction, and data visualization. Her research focuses on the intersection of Data Science and Data Visualization, especially toward the way humans can collaboratively work together with ML/AI systems through visual interfaces. Before joining the University of Waterloo, she was a Lead Research Scientist at Tableau.
 
 
 **[Dylan Cashman](https://dylancashman.github.io/)**
@@ -41,7 +41,7 @@ Saugat Pandey is a Ph.D. candidate in the Visual Interface and Behavior Explorat
 
 **[Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en)**  
  
-Liang Gou is a Principal Research Scientist at Bosch Research. His research interests lie in the fields of visual analytics, deep learning and human-computer interaction. Prior to joining Bosch Research, Liang was a Principal Research Scientist at Visa Research and a Research Staff Member at IBM Almaden Research Center.
+Liang Gou is a Director of AI at Splunk. His research interests lie in the fields of visual analytics, deep learning and human-computer interaction. Before joining Splunk, Liang was a Principal Research Scientist at Bosch Research and Visa Research and a Research Staff Member at IBM Almaden Research Center.
 
 **[Adam Perer](http://perer.org/)**  
  
