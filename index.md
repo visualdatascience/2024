@@ -21,7 +21,7 @@ Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2024/
 
 Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or follow us on Twitter at [@VisualDataSci](https://twitter.com/VisualDataSci).
 
-## Symposium Chair
+## Symposium Chairs
 
 - [John Wenskovitch](https://johnwenskovitch.com/), Pacific Northwest National Laboratory
 
