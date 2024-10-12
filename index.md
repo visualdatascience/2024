@@ -29,7 +29,7 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 
 ## Paper Chairs
 
-- [Anamaria Crisan](https://amcrisan.github.io/), Tableau Research
+- [Anamaria Crisan](https://amcrisan.github.io/), University of Waterloo
 
 - [Dylan Cashman](https://dylancashman.github.io/), Brandeis University
 
